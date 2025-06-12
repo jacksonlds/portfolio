@@ -25,4 +25,4 @@ A partir desses insights, o dashboard demonstra como a análise de dados pode or
 
 ![Dashboard de churn rate](/assets/img/ChurnRate.png)
 
-- [Kaggle](https://www.kaggle.com/jacksonls)
+- [Perfil no Kaggle](https://www.kaggle.com/jacksonls)
