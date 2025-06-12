@@ -4,7 +4,7 @@
 
 ## Formação Acadêmica
 - Bacharel em Ciências Contábeis | Universidade Estadual de Goiás (_2024_)								       		
-- Google Data Analytics Professional Certificate| Coursera (_2025_)	 			        		
+- Google Data Analytics Professional Certificate | Coursera (_2025_)	 			        		
 - Certificação Profissional ANBIMA Série 10 | ANBIMA (_2024_)
 
 ## Experiência Profissional
