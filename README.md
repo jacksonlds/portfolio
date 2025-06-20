@@ -28,7 +28,7 @@ A partir desses insights, o dashboard demonstra como a análise de dados pode or
 ### Análise temporal do uso da internet no Brasil
 [Publicação](https://github.com/jacksonlds/projetos/tree/main/AnaliseTemporal/Arquivos/ProjetoAnaliseTemporal)
 
-Projeto de análise temporal do uso da internet no Brasil (2000–2023), utilizando Python, Pandas, NumPy e SQL com SQLite. Foram analisados crescimento absoluto, pico de crescimento, média anual e evolução no ranking global. O uso da internet no Brasil cresceu de 2,9% para 84%, com destaque para 2018, ano de maior crescimento (+7,43%). O país subiu no ranking mundial de 76ª para 59ª. O projeto foi desenvolvido em Jupyter Notebook, com integração de SQL via ipython-sql e possui documentação organizada e estrutura preparada para melhorias futuras.
+Projeto de análise temporal do uso da internet no Brasil (2000–2023), utilizando **Python**, Pandas, NumPy e SQL com SQLite. Foram analisados crescimento absoluto, pico de crescimento, média anual e evolução no ranking global. O uso da internet no Brasil cresceu de 2,9% para 84%, com destaque para 2018, ano de maior crescimento (+7,43%). O país subiu no ranking mundial de 76ª para 59ª. O projeto foi desenvolvido em Jupyter Notebook, com integração de SQL via ipython-sql e possui documentação organizada e estrutura preparada para melhorias futuras.
 
 ![Análise Temporal](/assets/img/Picture1.png)
 
