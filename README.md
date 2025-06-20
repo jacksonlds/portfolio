@@ -30,6 +30,6 @@ A partir desses insights, o dashboard demonstra como a análise de dados pode or
 
 Projeto de análise temporal do uso da internet no Brasil (2000–2023), utilizando Python, Pandas, NumPy e SQL com SQLite. Foram analisados crescimento absoluto, pico de crescimento, média anual e evolução no ranking global. O uso da internet no Brasil cresceu de 2,9% para 84%, com destaque para 2018, ano de maior crescimento (+7,43%). O país subiu no ranking mundial de 76ª para 59ª. O projeto foi desenvolvido em Jupyter Notebook, com integração de SQL via ipython-sql e possui documentação organizada e estrutura preparada para melhorias futuras.
 
-![Analise Temporal](/assets/img/Picture(2).png)
+![Analise Temporal](/assets/img/Picture(1).png)
 
 - [Perfil no Kaggle](https://www.kaggle.com/jacksonls)
